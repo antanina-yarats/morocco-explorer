@@ -1,1 +1,1 @@
-https://cdn.glitch.global/f64eba08-4587-486f-a46a-709f73355016/bluecity.png?v=1704210171475
+![Alt Text](https://cdn.glitch.global/f64eba08-4587-486f-a46a-709f73355016/bluecity.png?v=1704210171475)
