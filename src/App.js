@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import {data} from './Data';
+import {data} from './data';
 import Site from './Site';
 import './App.css';
 
